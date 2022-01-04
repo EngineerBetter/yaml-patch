@@ -8,11 +8,11 @@ but for YAML.
 
 ## Installing
 
-`go get github.com/krishicks/yaml-patch`
+`go get github.com/EngineerBetter/yaml-patch`
 
 If you want to use the CLI:
 
-`go get github.com/krishicks/yaml-patch/cmd/yaml-patch`
+`go get github.com/EngineerBetter/yaml-patch/cmd/yaml-patch`
 
 ## API
 
